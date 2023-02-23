@@ -3,7 +3,7 @@ html {
     width: 100%;
     height: 100%;
     font-family: 'Inter', sans-serif;
-    background: linear-gradient(25deg, transparent 40%, rgb(82, 78, 78)), url(header.jpg) no-repeat center center fixed; 
+    background: linear-gradient(25deg, transparent 40%, rgb(20, 20, 20)), url(header.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
