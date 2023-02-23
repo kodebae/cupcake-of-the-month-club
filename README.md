@@ -2,6 +2,9 @@
 
 > *A call to action website for a fictional cupcake of the month subscription service.*
 --- 
+## Deployed Site 
+[Sweet Treats Club](https://kodebae.github.io/cupcake-of-the-month-club/)
+
 ## Configuration instructions:
 Built with:
 <br>
