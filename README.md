@@ -6,17 +6,22 @@
 Built with:
 <br>
 **[HTML 5](https://html.com/blog/html-5-cheat-sheets/)**
-> notes: 
+> notes: click the link for details on HTMl5
 
 **[CSS](https://css-tricks.com)**
-> notes: this is a good resource for adding and adjusting styles. 
+> notes: this is a good resource for adding and adjusting CSS styles. 
 ---
 **[Bootstrap CDN](https://getbootstrap.com/docs/5.2/getting-started/introduction/)**
-> notes: added responsive meta tags to the HTML file and link to CDN instead of downloading Bootstrap file. By adding meta tag links pages are automatically setup for mobile devices and are responsive. Bootstrap uses a 12 grid system. 
+> notes: added responsive meta tags to the HTML file and link to CDN instead of downloading Bootstrap file. By adding meta tag links pages are automatically setup for mobile devices and are responsive. Bootstrap uses a 12 grid system.
+
+**[LOGO](https://logo.com)**
+> notes: create a logo for the main branding. Logo.com is free to use.
 
 ## Installation instructions:
+- N/A. There is nothing to install. Bootstrap is imported via CDN link.
 
-## Operating instructions.:
+## Operating instructions:
+- To create Mailchimp landing page, you will need a free Mailchimp account. [Mailchimp info](https://youtu.be/IWeCs6oNeks)
 
 ## A file manifest:
 - .gitignore

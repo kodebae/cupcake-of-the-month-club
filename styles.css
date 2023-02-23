@@ -9,10 +9,14 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+img {
+    width: 400px;
+    height: auto;
+}
 
 h1 {
     font-size: 18rem;
-    color: whitesmoke;
+    color: white;
     animation: header-move 5s infinite;
  
 }
@@ -34,7 +38,7 @@ h2 {
 .btn {
     font-weight: 600;
     border-radius: 250px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 
 .btn-light:hover {
