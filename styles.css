@@ -13,10 +13,22 @@ html {
 h1 {
     font-size: 3.2rem;
     color: whitesmoke;
+    animation: header-move 5s infinite;
+ 
 }
+
+@keyframes header-move {
+    60% {text-shadow: 5px 10px 15px purple;}
+  }
 
 h2 {
     font-size: 1.2rem;
+    color: whitesmoke;
+    animation: header-move 5s infinite;
+}
+
+.spacer {
+    height: 6rem;
 }
 
 .btn {
