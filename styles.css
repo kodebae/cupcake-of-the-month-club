@@ -3,7 +3,7 @@ html {
     width: 100%;
     height: 100%;
     font-family: 'Inter', sans-serif;
-    background: url(header.jpg) no-repeat center center fixed; 
+    background: linear-gradient(25deg, transparent 40%, rgb(82, 78, 78)), url(header.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,33 +11,36 @@ html {
 }
 
 h1 {
-    font-size: 3.2rem;
+    font-size: 18rem;
     color: whitesmoke;
     animation: header-move 5s infinite;
  
 }
 
 @keyframes header-move {
-    60% {text-shadow: 5px 10px 15px purple;}
+    80% {text-shadow: 25px 25px 15px black;}
   }
 
 h2 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: whitesmoke;
     animation: header-move 5s infinite;
 }
 
 .spacer {
-    height: 6rem;
+    height: 5rem;
 }
 
 .btn {
     font-weight: 600;
     border-radius: 250px;
+    background-color: whitesmoke;
 }
 
 .btn-light:hover {
     border-width: 4px;
+    background-color: whitesmoke!important;
+    border-color: rgb(143, 141, 148)!important;
 }
 
 .btn-main {
