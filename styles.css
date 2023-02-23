@@ -50,3 +50,19 @@ h2 {
 .btn-main {
     padding: 1rem 2rem;
 }
+
+@media only screen and (max-width: 680px) {
+    img {
+        width: 250px;
+        height: auto;
+    }
+    .spacer {
+        height: 5%;
+    }
+    h1 {
+        font-size: auto;
+    }
+    .btn {
+        margin: 25px;
+    }
+  }
